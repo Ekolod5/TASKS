@@ -1,0 +1,15 @@
+/Users/elenakolodaznaa/Desktop/TASKS/T15/bin/Debug/net6.0/T15
+/Users/elenakolodaznaa/Desktop/TASKS/T15/bin/Debug/net6.0/T15.deps.json
+/Users/elenakolodaznaa/Desktop/TASKS/T15/bin/Debug/net6.0/T15.runtimeconfig.json
+/Users/elenakolodaznaa/Desktop/TASKS/T15/bin/Debug/net6.0/T15.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T15/bin/Debug/net6.0/T15.pdb
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.csproj.AssemblyReference.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.AssemblyInfoInputs.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.AssemblyInfo.cs
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.csproj.CoreCompileInputs.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/refint/T15.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.pdb
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/T15.genruntimeconfig.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T15/obj/Debug/net6.0/ref/T15.dll
