@@ -1,0 +1,15 @@
+/Users/elenakolodaznaa/Desktop/TASKS/T08/bin/Debug/net6.0/T08
+/Users/elenakolodaznaa/Desktop/TASKS/T08/bin/Debug/net6.0/T08.deps.json
+/Users/elenakolodaznaa/Desktop/TASKS/T08/bin/Debug/net6.0/T08.runtimeconfig.json
+/Users/elenakolodaznaa/Desktop/TASKS/T08/bin/Debug/net6.0/T08.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T08/bin/Debug/net6.0/T08.pdb
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.csproj.AssemblyReference.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.AssemblyInfoInputs.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.AssemblyInfo.cs
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.csproj.CoreCompileInputs.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/refint/T08.dll
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.pdb
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/T08.genruntimeconfig.cache
+/Users/elenakolodaznaa/Desktop/TASKS/T08/obj/Debug/net6.0/ref/T08.dll
